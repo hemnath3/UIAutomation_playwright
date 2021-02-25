@@ -2,8 +2,10 @@
 
 Testing a UI application using playwright.js
 
-Project setup
+# Project setup
+
 npm install
 
-Run Tests
+# Run Tests
+
 npm test
