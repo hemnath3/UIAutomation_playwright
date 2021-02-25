@@ -1,0 +1,16 @@
+{
+
+    "url":"https://petstore.octoperf.com/",
+    "userId":"995444",
+    "password":"Test@789#",
+    "firstname":"Animal",
+    "lastname":"Lover",
+    "email":"animal.lover@gmail.com",
+    "phoneNo":"999999999",
+    "address":"10 pen street",
+    "city":"Sydney",
+    "state":"NSW",
+    "zipcode":"2000",
+    "country":"Australia"
+
+}
